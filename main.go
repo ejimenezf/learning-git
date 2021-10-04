@@ -1,2 +1,4 @@
+packed main
+
 func main();
 
